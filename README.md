@@ -1,4 +1,29 @@
-## Hi there 👋
+
+## Hey, I'm Harish 👋
+
+Backend developer with 7+ years building scalable APIs and automation systems. Currently working on independent projects and looking for my next opportunity.
+
+## What I work with
+
+**Backend:** Python (Flask, FastAPI), PHP, Node.js  
+**Data:** PostgreSQL, MySQL, Redis, Pandas, NumPy  
+**DevOps:** Docker, GitLab CI/CD, AWS, Git
+
+## What I'm building
+
+- **Personal Finance Platform** - Full-stack expense tracker with Flask, React, and PostgreSQL
+- **Mars Rover Treasures** - Python game integrating NASA APIs with real-time image processing
+- **Twitch Bot** - Command management system with React dashboard (in progress)
+
+## Background
+
+Spent 7 years building microservices and APIs at Summit Tech, led technical delivery for multiple projects, mentored junior devs. Took time off for personal projects and skill development. Now actively seeking backend/full-stack roles in Montreal or remote.
+
+## Currently
+
+- Building portfolio projects
+- Contributing to open source when I can
+- Open to contract, freelance, or full-time opportunities
 
 <!--
 **harish8/harish8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
