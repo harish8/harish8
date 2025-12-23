@@ -1,5 +1,5 @@
 
-## Hey, I'm Harish 👋
+## Hey there, I'm Harish 👋
 
 Backend developer with 7+ years building scalable APIs and automation systems. Currently working on independent projects and looking for my next opportunity.
 
@@ -11,9 +11,9 @@ Backend developer with 7+ years building scalable APIs and automation systems. C
 
 ## What I'm building
 
-- **Personal Finance Platform** - Full-stack expense tracker with Flask, React, and PostgreSQL
-- **Mars Rover Treasures** - Python game integrating NASA APIs with real-time image processing
 - **Twitch Bot** - Command management system with React dashboard (in progress)
+- **Mars Rover Treasures** - Python game integrating NASA APIs with real-time image processing
+- **Personal Finance Platform** - Full-stack expense tracker with Flask, React, and PostgreSQL
 
 ## Background
 
