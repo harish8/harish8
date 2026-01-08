@@ -11,7 +11,7 @@ Backend developer with 7+ years building scalable APIs and automation systems. C
 
 ## What I'm building
 
-- **Twitch Bot** - Command management system with React dashboard (in progress)
+- **Twitch Stream Assistant** - Command management system with React dashboard (in progress)
 - **Mars Rover Treasures** - Python game integrating NASA APIs with real-time image processing
 - **Personal Finance Platform** - Full-stack expense tracker with Flask, React, and PostgreSQL
 
