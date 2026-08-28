@@ -5,37 +5,40 @@ Backend developer with 7+ years building scalable APIs and automation systems. C
 
 ## What I work with
 
-**Backend:** Python (Flask, FastAPI), PHP, Node.js  
+**Backend:** Python (Flask, FastAPI), PHP
+**Frontend:** React, JavaScript     
 **Data:** PostgreSQL, MySQL, Redis, Pandas, NumPy  
-**DevOps:** Docker, GitLab CI/CD, AWS, Git
+**DevOps:** Docker, GitLab CI/CD, AWS, Git, Cloudflare, Render.com
 
 ## What I'm building
 
-- **Twitch Stream Assistant** - Command management system with React dashboard (in progress)
-- **Mars Rover Treasures** - Python game integrating NASA APIs with real-time image processing
-- **Personal Finance Platform** - Full-stack expense tracker with Flask, React, and PostgreSQL
+### Mars Rover Treasures
+***Python game integrating NASA APIs with real time image processing***
+
+[Live Demo ↗](https://marsrovertreasures.pages.dev/)
+
+***Real time clicker game built on NASA's Mars Rover API*** 
+
+- currently being adapted into an Electron app for classroom use. 
+- Python backend handles NASA data fetching and game logic. 
+- Rebuilt the UI in React (replacing an earlier Pygame version) for real time in browser play. active project in development on a private repo.
+
+### Twitch Stream Assistant
+***OAuth2 powered Twitch bot for command automation***  
+- Runs locally on the streamer's machine to ensure **zero latency command execution** and offline capability.  
+- Developed a secure bot handling custom commands for live streams.  
+- Successfully deployed and currently used by 3 active streamers. 
+- Building a React dashboard for enhanced user management (in progress).
+
 
 ## Background
 
-Spent 7 years building microservices and APIs at Summit Tech, led technical delivery for multiple projects, mentored junior devs. Took time off for personal projects and skill development. Now actively seeking backend/full-stack roles in Montreal or remote.
+Previously spent 7 years building microservices and APIs at Summit Tech, led technical delivery for multiple projects, mentored junior devs. Currently shipping independent projects while seeking my next full time opportunity. 
 
-## Currently
+## Open to Work
 
-- Building portfolio projects
-- Contributing to open source when I can
-- Open to contract, freelance, or full-time opportunities
+**Available for:** Contract, Freelance, or Full time roles  
+**Locations:** Montreal, Canada (Remote friendly)
 
-<!--
-**harish8/harish8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+Check out my personal site: [harish-maduri.pages.dev](https://harish-maduri.pages.dev/)
