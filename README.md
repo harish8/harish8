@@ -1,3 +1,5 @@
+📌 Note: Public repos here predate 2025. Current projects are in private 
+repos while in active development — see live demos and details in my personal site: [harish-maduri.pages.dev](https://harish-maduri.pages.dev/)
 
 ## Hey there, I'm Harish 👋
 
