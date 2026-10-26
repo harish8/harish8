@@ -1,7 +1,7 @@
 📌 Note: Public repos here predate 2025. Current projects are in private 
 repos while in active development — see live demos and details in my personal site: [harish-maduri.pages.dev](https://harish-maduri.pages.dev/)
 
-## Hey there, I'm Harish 👋
+## Hey there, I'm Harry 👋
 
 Backend developer with 7+ years building scalable APIs and automation systems. Currently working on independent projects and looking for my next opportunity.
 
