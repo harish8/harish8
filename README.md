@@ -1,5 +1,5 @@
 📌 Note: Public repos here predate 2025. Current projects are in private 
-repos while in active development — see live demos and details in my personal site: [harish-maduri.pages.dev](https://harish-maduri.pages.dev/)
+repos while in active development — see live demos and details in my personal site: [harrym.pages.dev](https://harrym.pages.dev)
 
 ## Hey there, I'm Harry 👋
 
@@ -43,4 +43,4 @@ Previously spent 7 years building microservices and APIs at Summit Tech, led tec
 **Locations:** Montreal, Canada (Remote friendly)
 
 ## 🌐 Portfolio
-Check out my personal site: [harish-maduri.pages.dev](https://harish-maduri.pages.dev/)
+Check out my personal site: [harrym.pages.dev](https://harrym.pages.dev)
